@@ -1,3 +1,4 @@
+package com.contador;
 import java.util.Scanner;
 
 import com.contador.exception.ParametrosInvalidosException;
