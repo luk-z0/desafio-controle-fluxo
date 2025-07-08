@@ -2,7 +2,6 @@
 
 [![Java](https://img.shields.io/badge/Java-21-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)
 [![Status](https://img.shields.io/badge/status-finalizado-success?style=for-the-badge)](#)
-[![Feito com Amor](https://img.shields.io/badge/feito%20com-%E2%9D%A4-red?style=for-the-badge)](#)
 
 Mais um desafio pra conta — que venham muitos outros! 🚀🔥
 
